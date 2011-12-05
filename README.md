@@ -8,4 +8,7 @@ desejam aprender essa ótima ferramenta. Nesse projeto tem aulas interativas con
  - entre outros.
 
 Licença: GPL
-Autor: Gilson Filho <contato@gilsondev.com>
+
+### Idealizadores do Projeto
+Gilson Filho <contato@gilsondev.com>
+Bruno Barbosa <bsbruno1@gmail.com>
