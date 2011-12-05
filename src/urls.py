@@ -10,7 +10,7 @@ from django.conf import settings
 
 urlpatterns = patterns('',
     # Website
-    url(r'', include('aprendapython.apps.website.urls')),
+    url(r'', include('website.urls')),
 
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
