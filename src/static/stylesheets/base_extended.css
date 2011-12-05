@@ -1,0 +1,92 @@
+body {
+    background-color: #f2f2f2;
+    background: url('../images/bg_dotted.png') repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', Arial, Tahoma, sans-serif;
+    text-shadow: 1px 2px 3px #CCC;
+    color: #245c93;
+}
+
+p, ul, li, a {
+    font-family: 'Ubuntu', Arial, Tahoma, sans-serif;   
+}
+
+a {
+    text-decoration: none;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #245c93;
+}
+
+hr {
+    border: solid #3D3D3D;
+    clear: both;
+    margin: 10px 0 30px;
+    height: 0;
+    border-width: 1px 0 0;
+}
+
+textarea {
+    width: 340px;
+}
+
+footer {
+    text-align: center;
+    width: 940px;
+    padding-bottom: 20px;
+
+}
+
+address {
+    font-size: 90%;
+    color: #000;
+    text-shadow: 1px 1px 1px #CCC;
+}
+
+#logotipo {
+    float: left;
+    margin: 50px 3px 0 0;
+}
+
+#subtitulo {
+	color: #BC930B;
+}
+
+#menu {
+    float: right;
+    margin-bottom: 5px;
+}
+
+    #menu ul li {
+        float: left;
+        margin: 0 15px;
+    }
+
+#slide {
+	width: 935px;
+	height: 290px;
+	margin-bottom: 40px;
+    -moz-box-shadow: 2px 2px 2px #000;
+    -webkit-box-shadow: 2px 2px 2px #4D4D4D;
+    box-shadow: 2px 2px 2px #4D4D4D;
+}
+
+	#slide #slide_conteudo {
+		width: 450px;
+		margin-top: 10px;
+	}
+
+	#slide #video {
+		margin: -50px 0 0 450px;
+	}
+
+.passos_desenvolvimento {
+    font-size: 90%;
+}

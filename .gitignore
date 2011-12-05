@@ -1,0 +1,20 @@
+# Arquivos do virtualenv
+bin
+include
+local
+lib
+man
+
+# Arquivos bytecode
+*.pyc
+src/*.pyc
+
+# Arquivos temporarios
+*.swp
+*.bkp
+*.~
+
+# Banco de dados local
+src/*.db
+src/*.sqlite3
+src/*.sqlite
